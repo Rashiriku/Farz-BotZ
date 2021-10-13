@@ -12,10 +12,14 @@ ___
 ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farz&theme=buefy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Farz&repo=Farz-Bot&theme=buefy)](https://github.com/mhankbarbar/termux-wabot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=buefy)](https://github.com/mhankbarbar/termux-wabot)
 ![](https://github-profile-trophy.vercel.app/?username=Farz&row=2&column=3)
 
 ### :zap: Recent Activity
 
 
 # Farz-BotZ
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhankbarbar&theme=buefy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=buefy)](https://github.com/mhankbarbar/termux-wabot)
+![](https://github-profile-trophy.vercel.app/?username=MhankBarBar&row=2&column=3)
